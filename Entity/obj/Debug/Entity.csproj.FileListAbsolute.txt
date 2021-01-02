@@ -1,0 +1,6 @@
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Entity\bin\Debug\Entity.dll
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Entity\bin\Debug\Entity.pdb
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Entity\obj\Debug\Entity.dll
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Entity\obj\Debug\Entity.pdb
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Entity\obj\Debug\Entity.csprojAssemblyReference.cache

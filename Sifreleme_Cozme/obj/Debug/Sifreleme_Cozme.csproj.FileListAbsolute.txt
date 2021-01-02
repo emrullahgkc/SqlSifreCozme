@@ -1,0 +1,13 @@
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\bin\Debug\Sifreleme_Cozme.exe.config
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\bin\Debug\Sifreleme_Cozme.exe
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\bin\Debug\Sifreleme_Cozme.pdb
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\obj\Debug\Sifreleme_Cozme.csprojAssemblyReference.cache
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\obj\Debug\Sifreleme_Cozme.Form1.resources
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\obj\Debug\Sifreleme_Cozme.Properties.Resources.resources
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\obj\Debug\Sifreleme_Cozme.csproj.GenerateResource.cache
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\obj\Debug\Sifreleme_Cozme.csproj.CoreCompileInputs.cache
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\obj\Debug\Sifreleme_Cozme.exe
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\obj\Debug\Sifreleme_Cozme.pdb
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\bin\Debug\Entity.dll
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\bin\Debug\Entity.pdb
+C:\Users\EmrullaH\source\repos\Sifreleme_Cozme\Sifreleme_Cozme\obj\Debug\Sifreleme_Cozme.csproj.CopyComplete
